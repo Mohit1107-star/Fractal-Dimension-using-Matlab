@@ -12,5 +12,6 @@ where: D = Fractal Dimension
 Nr = Number of Boxes of side length r 
 r = Scale of the Box
 
-For many objects, a fractal box-counting dimension can be estimated from the slope of the log(N) vs. log(1 ∕ s) relationship, which is most commonly done by least-squares regression. Thus “Simple Linear Regression” especially “Least Square Method”, is an useful and popular technique to find the box-counting dimension via the slope of the regression line.
+For many objects, a fractal box-counting dimension can be estimated from the slope of the log(N) vs. log(1 ∕ s) relationship,which is most commonly done by least-squares regression. 
+Thus “Simple Linear Regression” especially “Least Square Method”, is an useful and popular technique to find the box-counting dimension via the slope of the regression line.
 
