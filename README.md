@@ -1,4 +1,4 @@
-# Fractal-Dimension-using-Matlab
+# Fractal-Dimension-using-Box-Counting-Method-with-MATLAB
 We measure fractal dimension of an object in an image using box counting method  and find Dimension of the image.
 It is also a measure of the space-filling capacity of a pattern that tells how a fractal scales differently from the space it is embedded in.
 It can be a fractional value.
